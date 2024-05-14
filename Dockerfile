@@ -6,7 +6,7 @@ RUN apt-get update && \
 
 
 # Set the working directory
-WORKDIR /app
+WORKDIR /vijay
 
 # Copy the application files
 COPY . .
